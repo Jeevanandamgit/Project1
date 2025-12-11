@@ -1,2 +1,2 @@
-print ("Addition:",2+2)
-print("Subraction:",3-2)
+print("Addition:",2+2)
+print("Subtraction:",5-3)
