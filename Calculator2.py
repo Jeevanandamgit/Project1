@@ -1,4 +1,0 @@
-print("Addition:",2+2)
-print("Subtraction:",5-3)
-print("Multiplication:",3*2)
-print("Multiplication:",4*4)
